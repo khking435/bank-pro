@@ -1,0 +1,59 @@
+{
+    "transactions": [
+      {
+        "date": "06/12/2018",
+        "category": "Groceries",
+        "description": "Weekly grocery shopping",
+        "amount": 50.00
+      },
+      {
+        "date": "06/11/2019",
+        "category": "Income",
+        "description": "Paycheck from Bob's Burgers",
+        "amount": 1000
+      },
+      {
+        "date": "06/07/2019",
+        "category": "Food",
+        "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+        "amount": 10.55
+      },
+      {
+        "date": "06/12/2020",
+        "category": "Food",
+        "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+        "amount": 1055
+      },
+      {
+        "date": "06/12/2021",
+        "category": "Fashion",
+        "description": "Sunglasses, Urban Outfitters",
+        "amount": 2499
+      },
+      {
+        "date": "06/12/2022",
+        "category": "Food",
+        "description": "Venmo, Alice Pays you for Burrito",
+        "amount": 875
+      },
+      {
+        "date": "06/12/2023",
+        "category": "Groceries",
+        "description": "Weekly grocery shopping",
+        "amount": 5000
+      },
+      {
+        "date": "06/02/2024",
+        "category": "Utilities",
+        "description": "Electricity bill",
+        "amount": 7500
+      },
+      {
+        "date": "06/12/2024",
+        "category": "Dining Out",
+        "description": "Lunch with friends",
+        "amount": 30.00
+      }
+    ]
+  }
+  
