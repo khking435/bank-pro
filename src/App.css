@@ -12,10 +12,10 @@
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #474caaaa);
 }
 .logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+  filter: drop-shadow(0 0 2em #58b0c9aa);
 }
 
 @keyframes logo-spin {
@@ -56,7 +56,7 @@ header {
   align-items: center;
 }
 .starter{
-  background-color: purple;
+  background-color: rgb(12, 12, 12);
 }
 body{
   background-color: black;
